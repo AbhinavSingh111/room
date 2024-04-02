@@ -23,4 +23,4 @@ const Meeting = ({params:{id}}:{params: {id:string}}) => {
   )
 }
 
-export default meeting
+export default Meeting
